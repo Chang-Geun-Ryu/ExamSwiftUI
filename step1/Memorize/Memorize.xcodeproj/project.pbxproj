@@ -72,8 +72,6 @@
 		79EAF5CB24ECE3C000A92DFC /* Memorize */ = {
 			isa = PBXGroup;
 			children = (
-				79EAF5CC24ECE3C000A92DFC /* AppDelegate.swift */,
-				79EAF5CE24ECE3C000A92DFC /* SceneDelegate.swift */,
 				79EAF5D024ECE3C000A92DFC /* EmojiMemoryGameView.swift */,
 				79EAF5E224ED084500A92DFC /* EmojiMemoryGame.swift */,
 				79EAF5E024ED05E000A92DFC /* MemoryGame.swift */,
@@ -83,6 +81,8 @@
 				7974F87524EF9269008BD89A /* Pie.swift */,
 				7974F87124EF71F5008BD89A /* Array+Identifiable.swift */,
 				7974F87324EF7F4E008BD89A /* Array+Only.swift */,
+				79EAF5CE24ECE3C000A92DFC /* SceneDelegate.swift */,
+				79EAF5CC24ECE3C000A92DFC /* AppDelegate.swift */,
 				79EAF5D224ECE3C400A92DFC /* Assets.xcassets */,
 				79EAF5D724ECE3C400A92DFC /* LaunchScreen.storyboard */,
 				79EAF5DA24ECE3C400A92DFC /* Info.plist */,
