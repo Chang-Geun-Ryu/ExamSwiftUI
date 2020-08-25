@@ -62,7 +62,7 @@ struct CardView: View {
                                 self.startBonusTimeAnimation()
                         }
                     } else {
-                         Pie(startAngle: Angle.degrees(-90), endAngle: Angle.degrees(-animatedBonusRemaining*360-90), clockwise: true)
+                        Pie(startAngle: Angle.degrees(-90), endAngle: Angle.degrees(-animatedBonusRemaining*360-90), clockwise: true)
                     }
                 }
                 .padding(5).opacity(0.4)
